@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+~$*
+
+# Acima do limite de 100 MB do GitHub; baixado por scripts/01_baixar_dados.R
+data/raw/adams2021_luz_artificial/13750_2021_246_MOESM3_ESM.zip
